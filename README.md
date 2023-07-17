@@ -8,6 +8,8 @@ Clone this repo and open the repo in your terminal.
 
 Then run python shell.py.
 
+# Syntax
+
 Some code snippets showing the lang features and its syntax:
 
 ```make a=2
@@ -36,7 +38,7 @@ In future  I will be adding following features:
 
 
 
-**Feedback and Support**
+# Feedback and Support
 
 
 If you have any feedback, suggestions, or questions about the Attendance Verification App, please don't hesitate to reach out. You can open an issue on GitHub, and we'll be happy to assist you.
