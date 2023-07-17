@@ -2,7 +2,11 @@
 
 This is an interpreter made in python lang.
 
-To run this lang in your local device,Clone this repo and open the repo in your terminal.Then run python shell.py.
+To run this lang in your local device,
+
+Clone this repo and open the repo in your terminal.
+
+Then run python shell.py.
 
 Some code snippets showing the lang features and its syntax:
 
