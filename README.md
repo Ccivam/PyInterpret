@@ -21,7 +21,7 @@ Some code snippets showing the lang features and its syntax:
    if a>=b and c>=a do make c=c+1
 
 ```
-Above are some of the examples showcasing the features this interpreter has till now.
+
 
 In future  I will be adding following features:
 
