@@ -37,6 +37,8 @@ In future  I will be adding following features:
 
 
 **Feedback and Support**
+
+
 If you have any feedback, suggestions, or questions about the Attendance Verification App, please don't hesitate to reach out. You can open an issue on GitHub, and we'll be happy to assist you.
 
 We look forward to your contributions and hope that together we can create a robust and user-friendly Attendance Verification App.
