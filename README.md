@@ -27,5 +27,13 @@ In future  I will be adding following features:
 
       1.print like statement
       2.string operations
+      3.For loop
+      4.function creation
+      5.array 
+      6.vectors
+      7.sets
+      8.map
+      
+      
       
 
