@@ -23,7 +23,7 @@ Some code snippets showing the lang features and its syntax:
 ```
 Above are some of the examples showcasing the features this interpreter has till now.
 
-In future I am planning to add the following features:
+In future  I will be adding following features:
 
       1.print like statement
       2.string operations
