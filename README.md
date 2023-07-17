@@ -33,10 +33,13 @@ In future  I will be adding following features:
       2.string operations
       3.For loop
       4.function creation
-      5.array 
-      6.vectors
-      7.sets
-      8.map
+      5.OOPS features
+      6.array 
+      7.vectors
+      8.sets
+      9.map
+      10.stack and queue
+      
 
 
 
