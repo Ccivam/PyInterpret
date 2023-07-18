@@ -7,6 +7,9 @@ To run this lang in your local device,
 Clone this repo and open the repo in your terminal.
 
 Then run python shell.py.
+# Features
+
+As of now it supports variable initialisation,If-else statement,while loop,all mathematical,unary operations and boolean operations.
 
 # Syntax
 
