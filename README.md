@@ -2,7 +2,7 @@
 
 This is an interpreter made in python lang.
 
-To run this lang in your local device,
+To run this interpreter in your local device,
 
 Clone this repo and open the repo in your terminal.
 
